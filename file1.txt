@@ -1,9 +1,0 @@
-hello git
-second
-third - my branch
-fourth - mybranch
-some hot fix
-가능1 추가
-file1
-modified
-1
